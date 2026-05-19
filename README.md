@@ -10,6 +10,7 @@ Original project licensed under the [Apache License 2.0](https://github.com/shun
 ```bash
 git clone https://github.com/shun4midx/Taipei-MRT-TS-Library
 cd Taipei-MRT-TS-Library
+cd src
 npm install
 ```
 
