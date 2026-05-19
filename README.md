@@ -16,13 +16,13 @@ npm install
 
 Note that `npm install` is mandatory before running anything.
 
-# Running tests
+# Running Tests
 
 ```bash
 npx tsx tests/<fiile_name>.test.ts
 ```
 
-# Example usage
+# Example Usage
 
 ```ts
 import * as mrt from "./shun4mrt";
@@ -44,5 +44,5 @@ console.log(
 );
 ```
 
-# How to Run
+# Detailed Usage
 More detailed documentation will be provided later, but for now, I recommend looking at the files under `src/tests/`, and especially `src/tests/prettify.test.ts` to get a brief idea of how to use the library. Note that the languages `en` (English), `zh` (Chinese), `jp` (Japanese), and `kr` (Korean) are all supported, and in terms of displaying cost, `ADULT`, `CHILD`, and `ELDERLY` are all supported.
