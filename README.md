@@ -19,7 +19,7 @@ Note that `npm install` is mandatory before running anything.
 # Running Tests
 
 ```bash
-npx tsx tests/<fiile_name>.test.ts
+npx tsx tests/<file_name>.test.ts
 ```
 
 # Example Usage
